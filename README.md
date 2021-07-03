@@ -7,5 +7,5 @@ Images:
  ![image](https://user-images.githubusercontent.com/76846838/124357535-a5552780-dc39-11eb-907e-690825971fe3.png)
  ![image](https://user-images.githubusercontent.com/76846838/124357575-ddf50100-dc39-11eb-82d1-9a9bad29eee4.png)
 ![image](https://user-images.githubusercontent.com/76846838/124357587-f238fe00-dc39-11eb-9024-4491a5e32ff6.png)
-(https://user-images.githubusercontent.com/76846838/124357599-011fb080-dc3a-11eb-80b6-dc6b4d9fd2a7.png)
+[image](https://user-images.githubusercontent.com/76846838/124357599-011fb080-dc3a-11eb-80b6-dc6b4d9fd2a7.png)
 
